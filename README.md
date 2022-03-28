@@ -1,4 +1,4 @@
-# Lung Cancer Diagnose
+# A Lung Cancer Detection System Based on Convolutional Neural Networks and Natural Language Processing
 
 ### Development (Local)
 - Install Flask
@@ -8,3 +8,6 @@
 
 ### Dataset:
 * https://www.kaggle.com/hamdallak/the-iqothnccd-lung-cancer-dataset
+
+### Paper:
+* https://ieeexplore.ieee.org/document/9725011
