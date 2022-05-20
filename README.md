@@ -6,8 +6,5 @@
 - visit http://127.0.0.1:5000
 - Success!
 
-### Dataset:
-* https://www.kaggle.com/hamdallak/the-iqothnccd-lung-cancer-dataset
-
-### Paper:
-* https://ieeexplore.ieee.org/document/9725011
+* [Dataset](https://www.kaggle.com/hamdallak/the-iqothnccd-lung-cancer-dataset)
+* [Paper](https://ieeexplore.ieee.org/document/9725011)
